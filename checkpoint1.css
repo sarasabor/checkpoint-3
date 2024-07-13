@@ -1,0 +1,24 @@
+
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    background-color: aliceblue;
+    width: 100%;
+}
+
+nav div,
+     ul {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav ul { 
+    width: 300px;
+    list-style: none;
+    text-decoration: none;
+    
+}
+
